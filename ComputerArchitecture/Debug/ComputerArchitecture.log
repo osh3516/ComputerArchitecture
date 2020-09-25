@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  ComputerArchitecture.cpp
+c:\users\administrator\source\repos\computerarchitecture\computerarchitecture\utils.h(119): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\source\repos\computerarchitecture\computerarchitecture\computerarchitecture.cpp(54): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\source\repos\computerarchitecture\computerarchitecture\computerarchitecture.cpp(59): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ComputerArchitecture.vcxproj -> C:\Users\Administrator\source\repos\ComputerArchitecture\Debug\ComputerArchitecture.exe
